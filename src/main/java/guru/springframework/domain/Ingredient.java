@@ -4,6 +4,7 @@ import lombok.Getter;
 import lombok.Setter;
 import org.springframework.data.mongodb.core.mapping.DBRef;
 
+import javax.validation.constraints.Size;
 import java.math.BigDecimal;
 import java.util.UUID;
 
